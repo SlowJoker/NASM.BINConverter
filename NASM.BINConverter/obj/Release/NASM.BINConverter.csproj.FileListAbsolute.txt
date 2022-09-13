@@ -1,0 +1,6 @@
+C:\Users\VirusTest\source\repos\NASM.BINConverter\NASM.BINConverter\bin\Release\NASM.BINConverter.dll
+C:\Users\VirusTest\source\repos\NASM.BINConverter\NASM.BINConverter\bin\Release\NASM.BINConverter.pdb
+C:\Users\VirusTest\source\repos\NASM.BINConverter\NASM.BINConverter\obj\Release\NASM.BINConverter.csproj.AssemblyReference.cache
+C:\Users\VirusTest\source\repos\NASM.BINConverter\NASM.BINConverter\obj\Release\NASM.BINConverter.csproj.CoreCompileInputs.cache
+C:\Users\VirusTest\source\repos\NASM.BINConverter\NASM.BINConverter\obj\Release\NASM.BINConverter.dll
+C:\Users\VirusTest\source\repos\NASM.BINConverter\NASM.BINConverter\obj\Release\NASM.BINConverter.pdb
